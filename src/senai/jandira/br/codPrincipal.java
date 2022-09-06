@@ -9,13 +9,13 @@ public class codPrincipal {
 		//leitura
 		Scanner leitor = new Scanner(System.in);
 		
-		int multiplicando ;
+		 int multiplicando ;
 		
-		int minimoMultiplicador;
+		 int minimoMultiplicador;
 		
-		int maximoMultiplicador;
+		 int maximoMultiplicador;
 		
-		int resultado;
+		 int resultado;
 		
 		System.out.println("multiplicando?");
 		multiplicando=leitor.nextInt();
